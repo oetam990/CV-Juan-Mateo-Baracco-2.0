@@ -1,0 +1,72 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+  color: #ffffff;
+  background-color: #00458f;
+  text-align: center;
+  border-color: #00458f;
+  border-style: double;
+  margin-bottom: 5px;
+}
+
+img {
+  width: 50%;
+  height: auto;
+  float: left;
+}
+
+section{
+    padding-top: 15px;
+}
+
+.info{
+    width: 49%;
+    float: right;
+    height: auto;
+    padding: 5px;
+}
+
+ul{
+    color: #6d6d6d;
+    list-style: none;
+}
+
+ol{
+   color: #6d6d6d;
+    list-style: none; 
+}
+.edad{
+    margin-top: 0;
+    text-align: center;
+}
+
+.direccion{
+    text-align: center;
+}
+
+.series{
+    margin-left: auto;
+    margin-bottom: 5px;
+    border-style: groove;
+    border-color: #dfdfdf;
+    text-align: center;
+}
+
+.peliculas{
+    margin-left: auto;
+    margin-bottom: 5px;
+    border-style: groove;
+    border-color: #dfdfdf;
+    text-align: center;
+}
+
+.perfil{
+    margin-left: auto;
+    border-style: groove;
+    border-color: #dfdfdf;
+    text-align: center;
+}
